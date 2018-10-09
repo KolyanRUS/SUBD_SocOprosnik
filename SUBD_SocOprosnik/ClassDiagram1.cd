@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SUBD_SocOprosnik.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAABAAAASAQAACAMA7AAAAAnQPAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Program" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="SUBD_SocOprosnik.Program.opros" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAgAAAIAAAAAAAAAAAAAAAAAAAAQIBDAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Анализ_статистики" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EiAAEBAEACAQEBEQIQCAAABCAAg5AEAA1mYPEQEBQAI=</HashCode>
+      <FileName>Анализ_статистики.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Гистограмма_результатов_анализа_статистики" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEACAAABBAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Гистограмма_результатов_анализа_статистики.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Добавление_доп" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAwAABAADAAAAAAAAA=</HashCode>
+      <FileName>Задание_доп._сведений_о_опросе.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Окно_редактирования_вопроса" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAQABAQAACAAAACAMAwAAAAEDIMAAEAAAA=</HashCode>
+      <FileName>Окно_редактирования_вопроса.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Окно_создания_вопроса" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAACAQABAQAACAAAACAMAwAAAAEDAMAAEAAAA=</HashCode>
+      <FileName>Окно_создания_вопроса.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Окно_создания_опроса" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQABAQAACAAAACAMA5AAAAAHAOAAAAAAA=</HashCode>
+      <FileName>Окно_создания_опроса.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Прохождение_опроса" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABBEACAAADBQAACAIABCIAgYAAgAFSAAAQAAAAA=</HashCode>
+      <FileName>Прохождение_опроса.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Редактирование_варианта_ответа" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAAAACIAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Редактирование_варианта_ответа.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Редактирование_текущего_опроса" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAQAESAAAACAMA4AAAAAHAMAAAAAAA=</HashCode>
+      <FileName>Редактирование_текущего_опроса.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SUBD_SocOprosnik.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

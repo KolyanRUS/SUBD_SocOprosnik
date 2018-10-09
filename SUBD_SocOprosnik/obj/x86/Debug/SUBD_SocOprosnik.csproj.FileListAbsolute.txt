@@ -1,0 +1,35 @@
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\bin\Debug\SUBD_SocOprosnik.exe
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\bin\Debug\SUBD_SocOprosnik.pdb
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Form1.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Properties.Resources.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Добавление_доп.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Окно_редактирования_вопроса.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Окно_создания_вопроса.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Окно_создания_опроса.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Прохождение_опроса.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Редактирование_варианта_ответа.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.csproj.GenerateResource.Cache
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.exe
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.pdb
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Анализ_статистики.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Редактирование_текущего_опроса.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Гистограмма_результатов_анализа_статистики.resources
+C:\Users\Kolyan1998\Desktop\КОЛИНО\Диплом 2018\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.csprojResolveAssemblyReference.cache
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.exe
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.pdb
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\bin\Debug\SUBD_SocOprosnik.exe
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\bin\Debug\SUBD_SocOprosnik.pdb
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Form1.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Properties.Resources.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Анализ_статистики.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Гистограмма_результатов_анализа_статистики.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Добавление_доп.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Окно_редактирования_вопроса.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Окно_создания_вопроса.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Окно_создания_опроса.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Прохождение_опроса.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Редактирование_варианта_ответа.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.Редактирование_текущего_опроса.resources
+D:\SUBD_SocOprosnik\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.csproj.GenerateResource.Cache
+D:\SUBD_SocOprosnik_18.06.2018_01-11\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.exe
+D:\SUBD_SocOprosnik_18.06.2018_01-11\SUBD_SocOprosnik\obj\x86\Debug\SUBD_SocOprosnik.pdb
